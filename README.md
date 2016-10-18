@@ -24,8 +24,10 @@ Algoritma ini di implementasikan ke bahasa java dan mempunyai 2 class, yaitu cla
 Untuk class Main sendiri bekerja dengan memanggil class DesEncrypter untuk dijalan seluruh baris programnya
 
 - Kontribusi
+
 Dalam pengerjaan source code, saya berkontribusi dalam menyelesaikan beberapa method dan deklarasi yang ada di class 'DesEncrypter'
 beberapa method yang saya kerjakan adalah 
+
 1. method xor, 
 2. pendeklarasian variabel array
 3. pendeklarasian dari s-box(initSBoxes)
