@@ -10,7 +10,9 @@ Farhan Ramadhani
 5. Ryan Suryotomo
 
 - Dokumentasi
+
 Algoritma ini di implementasikan ke bahasa java dan mempunyai 2 class, yaitu class 'DesEncrypter' dan 'Main'. Dalam Class DesEncrypter terdapat beberapa deklarasi matriks dan method :
+
 1. teksToBiner : mengubah teks ke biner
 2. makeBlock : membuat block biner 64-bit
 3. Permutation : membuat block permutasi 
