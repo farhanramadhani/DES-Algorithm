@@ -17,7 +17,9 @@ Algoritma ini di implementasikan ke bahasa java dan mempunyai 2 class, yaitu cla
 4. LeftShift : menggeser 1 bit ke kiri
 5. xor : melakukan operasi XOR antar string
 6. sBox : mensubstitusi kan matrix ke S-box
-7. encrypt : menjalankan proses enkripsi                                                                                               Untuk class Main sendiri bekerja dengan memanggil class DesEncrypter untuk dijalan seluruh baris programnya
+7. encrypt : menjalankan proses enkripsi                                                                                             
+
+Untuk class Main sendiri bekerja dengan memanggil class DesEncrypter untuk dijalan seluruh baris programnya
 
 - Kontribusi
 Dalam pengerjaan source code, saya berkontribusi dalam menyelesaikan beberapa method dan deklarasi yang ada di class 'DesEncrypter'
